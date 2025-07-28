@@ -1,4 +1,3 @@
-DigitalFashionPortal_MVC
 Este repositório contém o código-fonte para o controlador HomeController de um aplicativo ASP.NET MVC chamado DigitalFashionPortal. Este controlador gerencia diversas ações relacionadas a páginas como index, about, services, contact, registro e login de usuários.
 
 Estrutura do Código
