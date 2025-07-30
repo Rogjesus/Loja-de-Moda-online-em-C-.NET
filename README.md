@@ -86,5 +86,6 @@ Abra o projeto no Visual Studio.
 Configure a string de conexão no arquivo web.config de acordo com a sua configuração de banco de dados.
 Compile e execute o projeto.
 Estrutura do Banco de Dados
-O projeto utiliza o Entity Framework para gerenciar a persistência de dados. A tabela principal usada é TblUsers que armazena informações dos usuários registrados.     em atualização...
+O projeto utiliza o Entity Framework para gerenciar a persistência de dados. A tabela principal usada é TblUsers que armazena informações dos usuários registrados.    
+em atualização...
 
